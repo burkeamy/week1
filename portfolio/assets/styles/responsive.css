@@ -1,0 +1,84 @@
+@media (max-width: 1300px) {
+    .main-content{
+        width: 90%;
+    }
+
+    .rpg {
+        left: 400px;
+    }
+
+    .widiget {
+        left: 400px;
+    }
+}
+
+@media (max-width: 700px) {
+    body {
+        clear: both;
+        overflow: auto;
+    }
+    
+    header {
+        height: 100px; 
+    }
+
+    .name {
+    width: 100%;
+    margin-left: 20px;
+    font-size: 30px;
+    }
+
+    nav {
+        float: left;
+        margin-left: 20px;
+    }
+    .main-content {
+        max-width: 90%;
+        overflow: auto;
+    }
+
+    .amy {
+        width: 90%;
+    }
+
+    .img-2 {
+        top: 300px;
+        left: 35px;
+    }
+
+    .rpg{
+        top: 220px;
+        left: 5px;
+    }
+
+    .img-3 {
+        top: 455px;
+    }
+
+    .trivia {
+        top: 340px;
+    }
+
+    .img-4 {
+        top: 610px;
+        left: 30px;
+    }
+
+    .widiget {
+        top: 500px;
+        left: 0px;
+    }
+
+    .img-5 {
+        top: 810px;
+    }
+
+    .rock {
+        top: 610px;
+    }
+
+    .portfolio {
+        height: 1000px;
+    }
+}
+
